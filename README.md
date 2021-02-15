@@ -10,7 +10,7 @@ This is a straight port of [fast-levenshtein](https://github.com/hiddentao/fast-
 
 ## Install
 ```sh
-$ go get github.com/pollen5/go-levenshtein
+$ go get github.com/ravener/go-levenshtein
 ```
 
 ## Usage
