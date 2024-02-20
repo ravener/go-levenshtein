@@ -9,11 +9,13 @@ This is a straight port of [fast-levenshtein](https://github.com/hiddentao/fast-
 - Easy to use, exposes only one function.
 
 ## Install
+
 ```sh
 $ go get github.com/ravener/go-levenshtein
 ```
 
 ## Usage
+
 ```go
 package main
 
